@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from kivy.app import App
 from kivy.app import Widget
 
@@ -15,3 +16,18 @@ HelloWorld().run()
 
 =======
 >>>>>>> 1e9e6e2 (Update)
+=======
+from kivy.app import App
+from kivy.app import Widget
+
+
+# Create a custom derived Kivy App class
+class HelloWorld(App):
+    def build(self):
+        self.root = Widget()
+        return self.root  # build() should always return a widget object
+
+
+# create a custom App object and start it running
+HelloWorld().run()
+>>>>>>> 141d9f1 (Update)
