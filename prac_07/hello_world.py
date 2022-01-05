@@ -11,4 +11,7 @@ class HelloWorld(App):
 
 # create a custom App object and start it running
 HelloWorld().run()
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1e9e6e2 (Update)

@@ -23,4 +23,7 @@ class Dynamic_labels(App):
 
 
 Dynamic_labels().run()
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1e9e6e2 (Update)

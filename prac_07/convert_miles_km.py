@@ -35,4 +35,7 @@ def handle_increment(self, value):
 
 
 ConvertMilesToKilometersApp().run()
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1e9e6e2 (Update)

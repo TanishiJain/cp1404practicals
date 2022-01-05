@@ -1,5 +1,10 @@
 from kivy.app import App
 from kivy.lang import Builder
+<<<<<<< HEAD
+=======
+from kivy.uix.label import Label
+
+>>>>>>> 1e9e6e2 (Update)
 
 
 class BoxLayoutDemo(App):
@@ -19,4 +24,7 @@ class BoxLayoutDemo(App):
 
 
 BoxLayoutDemo().run()
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1e9e6e2 (Update)

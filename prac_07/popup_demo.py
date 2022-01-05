@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> 1e9e6e2 (Update)
 from kivy.app import App
 from kivy.lang import Builder
 from kivy.uix.button import Button
@@ -113,4 +116,7 @@ class PhonebookApp(App):
 
 
 PhonebookApp().run()
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1e9e6e2 (Update)

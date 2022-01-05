@@ -3,6 +3,10 @@
 from kivy.app import App
 from kivy.lang import Builder
 from kivy.core.window import Window
+<<<<<<< HEAD
+=======
+from kivy import Config
+>>>>>>> 1e9e6e2 (Update)
 
 
 
@@ -24,4 +28,7 @@ class SquareNumberApp(App):
 
 
 SquareNumberApp().run()
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1e9e6e2 (Update)
